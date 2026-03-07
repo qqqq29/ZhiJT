@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 3,
+  "versionName": "1.2",
   "downloadUrl": "https://github.com/qqqq29/ZhiJT/blob/main/app-debug-androidTest.apk",
   "releaseNotes": "修复若干问题，优化体验。"
 }
